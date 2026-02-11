@@ -12,6 +12,8 @@ public class DocumentCreator {
     // я это к тому, что здесь просто вот это написал и всё
 
     // хотя я видел что-то про CLASS DB в годоте который тоже на плюсах.
+    // так что не думаю что это прям проблема языка
+    // это у меня руки кривые
 
     public static IDocument createDocument(String class_name){
         Class<? extends IDocument> cls;
